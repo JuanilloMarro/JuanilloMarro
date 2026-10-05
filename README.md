@@ -9,8 +9,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuanilloMarro/JuanilloMarro/output/pacman-contribution-graph-dark.svg" />
   <img src="https://raw.githubusercontent.com/JuanilloMarro/JuanilloMarro/output/pacman-contribution-graph.svg" alt="Pac-Man" />
 </picture>
-
-### Actividad reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
